@@ -15,3 +15,4 @@ public class ColorHandler : MonoBehaviour
         TintRenderer.SetPropertyBlock(prop, TintMaterialSlot);
     }
 }
+
